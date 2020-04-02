@@ -1,0 +1,3 @@
+D:/Clion/Pamsi/Sortownia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Clion/Pamsi/Sortownia/cmake-build-debug/CMakeFiles/Sortownia.dir
+D:/Clion/Pamsi/Sortownia/cmake-build-debug/CMakeFiles/edit_cache.dir

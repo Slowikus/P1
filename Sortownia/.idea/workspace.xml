@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Sortownia" targetName="Sortownia" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1a7a082-788c-420b-b6ec-1bb7756a4498" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Sortownia\exportToHTML" />
+  </component>
+  <component name="ProjectId" id="1ZvygPSaOFaz1fbWkKXUrx9gnBM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/Pulpit/szym/stas" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Sortownia" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Sortownia" TARGET_NAME="Sortownia" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Sortownia" RUN_TARGET_NAME="Sortownia">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1a7a082-788c-420b-b6ec-1bb7756a4498" name="Default Changelist" comment="" />
+      <created>1585733972722</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585733972722</updated>
+      <workItem from="1585733975194" duration="4581000" />
+      <workItem from="1585741299825" duration="27124000" />
+      <workItem from="1585769151555" duration="272000" />
+      <workItem from="1585769665201" duration="10272000" />
+      <workItem from="1585786380407" duration="101000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="326" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585751714208">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="690" y="326" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1585751714208" />
+    <state x="1310" y="338" key="FileChooserDialogImpl" timestamp="1585769756326">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="1310" y="338" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1585769756326" />
+    <state width="1877" height="459" key="GridCell.Tab.0.bottom" timestamp="1585786480511">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="459" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1585786480511" />
+    <state width="1877" height="459" key="GridCell.Tab.0.center" timestamp="1585786480511">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="459" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1585786480511" />
+    <state width="1877" height="459" key="GridCell.Tab.0.left" timestamp="1585786480511">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="459" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1585786480511" />
+    <state width="1877" height="459" key="GridCell.Tab.0.right" timestamp="1585786480511">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="459" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1585786480511" />
+    <state width="1877" height="769" key="GridCell.Tab.1.bottom" timestamp="1585786161941">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="769" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1585786161941" />
+    <state width="1877" height="769" key="GridCell.Tab.1.center" timestamp="1585786161941">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="769" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1585786161941" />
+    <state width="1877" height="769" key="GridCell.Tab.1.left" timestamp="1585786161941">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="769" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1585786161941" />
+    <state width="1877" height="769" key="GridCell.Tab.1.right" timestamp="1585786161941">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state width="1877" height="769" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1585786161941" />
+    <state x="636" y="403" key="com.intellij.ide.util.TipDialog" timestamp="1585786381796">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="636" y="403" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1585786381796" />
+  </component>
+</project>

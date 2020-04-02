@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Clion/Pamsi/Sortownia/Introsort.h
+Quicksort.h
+D:/Clion/Pamsi/Sortownia/Quicksort.h
+
+D:/Clion/Pamsi/Sortownia/Mergesort.h
+
+D:/Clion/Pamsi/Sortownia/Quicksort.h
+
+D:/Clion/Pamsi/Sortownia/main.cpp
+iostream
+-
+cstdlib
+-
+time.h
+-
+cmath
+-
+Quicksort.h
+D:/Clion/Pamsi/Sortownia/Quicksort.h
+Mergesort.h
+D:/Clion/Pamsi/Sortownia/Mergesort.h
+Introsort.h
+D:/Clion/Pamsi/Sortownia/Introsort.h
+
